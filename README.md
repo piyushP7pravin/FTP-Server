@@ -5,5 +5,5 @@ In the simplest of definitions, an FTP Server (which stands for File Transfer Pr
 A FTP Sever has basic two components, viz server and client. A server is a computer program or a device that provides functionality for other programs and devices. Clients who want to chat with each other have to be connect to the server first. 
 Multiple users can connect to the FTP server and Upload/Download/Manage their files on server and Additionally provided with UMS(User Management System).
 
-![](https://github.com/piyushP7pravin/Multi-Client-FTP-Server/blob/master/Images/change_password.JPG)
+
 
