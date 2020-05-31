@@ -17,9 +17,9 @@ Multiple users can connect to the FTP server and Upload/Download/Manage their fi
 
 5.	There are mainly two operations User management and chatting.
 
-## For user management:
+#### For user management:
 We can update our profile and view others profile. If an admin user opens this operation then he /she can add user update user and delete user.
-### For FTP:
+##### For FTP:
 Server module will take port number as input and start connection.
 Client:  Upload file on server, download file from server, Manage uploaded files, Share files to other users.
 
