@@ -752,7 +752,7 @@ class Rename(Thread):
 		filename=f_name+"."+UMS.getFileType(self.uname,f_name)
 		self.s.send(filename.encode("latin-1"))
 		self.s.recv(1024).decode("latin-1")
-		new_filename=simpledialog.askstring(title="Rename",prompt="Enter new filename :                    ",initialvalue=f_name)
+		new_filename=simpledialog.askstring(title="Rename",prompt="Enter new filename : ",initialvalue=f_name)
 		print(new_filename)
 		self.s.send(new_filename.encode("latin-1"))
 		self.s.recv(1024).decode("latin-1")
