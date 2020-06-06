@@ -1,3 +1,6 @@
+MIT License
+Copyright (c) 2020 Piyush Pravin
+
 # Multi-Client FTP Server 
 Implementation of socket programming in Python. Based on 3-Tier Architecture
 
