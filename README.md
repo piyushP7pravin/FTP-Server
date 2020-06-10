@@ -17,15 +17,10 @@ A FTP Sever has basic two components, viz server and client. A server is a compu
 Multiple users can connect to the FTP server and Upload/Download/Manage their files on server and Additionally provided with UMS(User Management System).
 
 ## Project Work Flow
-
 1.	On the start of program, call Login window where all widgets are set from Login.py file.
-
 2.	Now user will enter his/her login credentials. After login it will call main frame where all widgets are set from Mainframe.py
-
 3.	Select desired operation from distinct dropdown menu from Main Frame.
-
 4.	After selecting the desired operation it will call the module of respective operation.
-
 5.	There are mainly two operations User management and chatting.
 
 #### For user management:
